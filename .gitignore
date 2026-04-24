@@ -1,0 +1,7 @@
+.venv/
+
+*.pth
+*.png
+*.docx#
+*.docx
+*.pptx
